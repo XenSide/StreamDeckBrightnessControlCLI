@@ -1,3 +1,5 @@
+![StreamDeckBrightnessControlCLI](docs/cover.png)
+
 # StreamDeckBrightnessControlCLI
 Sets the brightness of all connected Stream Deck devices to a specified level. Works with every Stream Deck model (Original, Mini, XL, MK.2, Plus, Neo, etc.) and targets all connected units at once.
 
